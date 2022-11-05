@@ -43,4 +43,3 @@ def calculate():
         clear_all()
         display.insert(0,"Error")
 root.mainloop() 
-ngu
