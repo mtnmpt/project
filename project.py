@@ -44,4 +44,4 @@ def calculate():
         display.insert(0,"Error")
 root.mainloop()
 #hiểu cách làm rồi
-
+#có đúng không đấy?
