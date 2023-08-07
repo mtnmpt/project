@@ -43,5 +43,5 @@ def calculate():
         clear_all()
         display.insert(0,"Error")
 root.mainloop()
-# mai trung nghia
+# mai trung nghia hahahaha
 
