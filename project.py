@@ -42,4 +42,4 @@ def calculate():
     except Exception:
         clear_all()
         display.insert(0,"Error")
-root.mainloop() 
+root.mainloop() /*hahahahaha
