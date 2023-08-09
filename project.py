@@ -45,6 +45,6 @@ def calculate():
 root.mainloop()
 
 
-# mai trung nghia hahahaha
-# ôn lại nào
+# 1 ngày đẹp trời
+
 
