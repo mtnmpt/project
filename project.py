@@ -47,4 +47,8 @@ root.mainloop()
 
 # mai trung nghia hahahaha
 # ôn lại nào
+<<<<<<< HEAD
 
+=======
+# lằng nhằng thế
+>>>>>>> 5c6097b13fe867193ee7b61ff3fccdf99fa1c877
