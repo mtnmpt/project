@@ -44,10 +44,7 @@ def calculate():
         display.insert(0,"Error")
 root.mainloop()
 
-#hiểu cách làm rồi
-#có đúng không đấy?
-#đúng rồi đấy
-=======
+
 # mai trung nghia hahahaha
 # ôn lại nào
->>>>>>> 84f44c8cf615eaabe4fc5da1aca7aa05dbfacf82
+
