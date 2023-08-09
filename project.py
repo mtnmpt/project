@@ -45,6 +45,6 @@ def calculate():
 root.mainloop()
 
 
-# 1 ngày đẹp trời
+# 1 ngày mới tốt lành nhé
 
 
