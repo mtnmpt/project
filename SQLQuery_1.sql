@@ -20,4 +20,4 @@ BEGIN
 END
 GO
 -- example to execute the stored procedure we just created
--- exec
+-- execution
