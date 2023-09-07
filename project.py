@@ -43,7 +43,7 @@ def calculate():
         clear_all()
         display.insert(0,"Error")
 root.mainloop()
-
+# quên mẹ rồi
 
 # 1 ngày mới tốt lành nhé
 
